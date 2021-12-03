@@ -93,6 +93,7 @@ public class CodeUtilities implements ModInitializer {
     public static String PLAYER_UUID = null;
     public static String JEREMASTER_UUID = "6c669475-3026-4603-b3e7-52c97681ad3a";
     public static String RYANLAND_UUID = "3134fb4d-a345-4c5e-9513-97c2c951223e";
+    public static String GWIILO_UUID = "50720c4f-4268-4feb-8df1-95571183ffd4";
     public static String OPTIONSTXT = "";
     public static String CLIENT_LANG = "unknown";
     public static String[] signText = {};//stores the text of the code sign corresponding to the currently open chest
